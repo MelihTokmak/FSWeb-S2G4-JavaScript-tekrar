@@ -117,7 +117,7 @@ for (i = 1; i < sayilar.length; i++) {
     enkucuk = sayilar[i];
 }
 
-// 3b çözümü:
+// 3b  çözümü:
 
 ucetambolunenler = [];
 let ucKontrol = (sayi) => {
