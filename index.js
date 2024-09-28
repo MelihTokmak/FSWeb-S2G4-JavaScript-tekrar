@@ -103,7 +103,7 @@ let ucetambolunenler,
   siralisayilar,
   tekraredensayilar;
 
-// 3a çözümü
+// 3a  çözümü
 enbuyuk = 0;
 for (i = 0; i < sayilar.length; i++) {
   if (sayilar[i] > enbuyuk) {
